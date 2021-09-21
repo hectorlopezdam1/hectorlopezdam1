@@ -22,4 +22,4 @@
 
 #### I have also worked in videogames with [Unity](https://github.com/hectorlopezdam1/UnityProjects)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectorlopezdam1&theme=tokyonight)
